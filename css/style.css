@@ -572,13 +572,13 @@ img {
   color: var(--second-text-color);
 }
 
-.footer-social-item:not(:first-child) {
-  margin-left: 10px;
-}
-
 .footer-social-link:hover,
 .footer-social-link:focus {
   background-color: var(--accent-bg-color);
+}
+
+.footer-social-item:not(:first-child) {
+  margin-left: 10px;
 }
 
 .footer-social-icon {
